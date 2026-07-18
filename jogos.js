@@ -8,5 +8,6 @@ const JOGOS = [
   "Labirinto",
   "De um tapa no gabriel",
   "Soco Bruto",
-  "CattoVerse 3D"
+  "CattoVerse 3D",
+  "Tiro na cara"
 ];
